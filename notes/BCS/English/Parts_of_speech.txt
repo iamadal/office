@@ -1,0 +1,636 @@
+t23-11-21
+Parts of Speech
+
+01. Noun 
+02. Pronoun 
+03. Adjective 
+04. Verb 
+05. Adverb 
+06. Preposition 
+07. Interjection 
+08. Conjuction
+
+Subject ক্রিয়াকে কে দ্বারা প্রশ্ন করো।(মূল ভার্বকে প্রশ্ন করি)
+Object  ক্রিয়াকে কী/কাকে দ্বারা প্রশ্ন করো
+------------------------------------------------
+                     
+                      Noun
+------------------------------------------------
+01. Noun = কোন কিছুর নাম।
+02. প্রকারভেদ - সাধারণত ২ প্রকার
+    a. Concrete
+      01. Proper(আর্টিকেল বসেনা) নির্দিষ্ট করে কিছু বুঝাবে
+      02. Common(May be singular/Plural)
+      03. Collective
+      04. Material
+      কমন ও প্রপার নাউন কনভার্সিবল
+       
+    b. Abstract - ধরা ছোয়া যায়না এমন
+   
+    গণনার ভিত্তিতে ২ প্রকার
+    
+    a. Countable -গণনা করা যায়।
+       01. May be Singular/Plural
+       02. a,an,the,this, that,  every, each
+           either, neither used for Singular
+           countable noun(Determiner(Adj))
+       03. For plural countable noun
+           the, these, those, all, some, several
+           many, both, few, a few, any,  no, two
+           three,four
+       04. সাধারণ ভাবে বুঝাতে The বসেনা। বাক্যের
+           অর্থের উপর ভিত্তি করে নির্বাচন করতে হবে।
+    
+    b. Uncountable - গণনা করা যায়না।
+       01. No singular/Plural form
+       02. এরপর সিংগুলার ভার্ব
+       
+    c. Uncountable to Countable Conversion
+       ** a slice of bread
+       ** a piece of
+       ** ten meters
+       ** three acres
+       
+       
+    d. Use
+       01. Subject of verb: The Sky is blue
+       02. Object of verb: I saw a nice bird
+       03. Object of Preposition: I like the color of the sky
+       04. Complement: We made him captain
+       05. Appositive: Mr. Karim,  Principal of KC College
+       06. Vocative, Mishub, come here 
+       
+    e. Suffix for detecting noun
+       er,or,ant,ist,ry,ee,ment,th,ure,age,ship,cy,ing
+       tude,let,hood,um,logy,ian,ies,ard,racy,mony
+       sis,ot,el
+   
+    f. More forms(CN = Countable Noun, UCN = un)
+       01. Many + CN
+       02. A Few + CN
+       03. Few + CN
+       04. Much + UCN
+       05. Little + UCN
+       06. More + CN/UCN
+       07. Fewer + CN
+       08. Less + UCN
+       09. Fewest + CN
+       10. Least + UCN
+       11. The Few + CN
+       12. Very Few + CN
+       13. The very Few + CN
+       14. Most + CN
+       15. Several + CN
+       16. The Rest of + CN/UCN
+       17. Some + Both
+       18. Some of + Both
+       19. Many of + CN
+       20. Much of + UCN
+       21. Several of + CN 
+       
+------------------------------------------------
+                  Pronoun
+------------------------------------------------
+নাউনের বদলে যে শব্দ ব্যবহার করা হয়।
+01. Kinds: 8
+02. PI RRR DD
+
+a. Personal Pronoun: ব্যক্তি/বস্তুর বদলে বসবে
+   1. First Person: যে কথা বলে
+   2. Second Person: যে শুনে
+   3. Third Person: যার বিষয়ে আলাপ করা হয়। 
+  
+  ** 231 rules,  দায় স্বীকার হলে 132
+   
+   বিষয়টি ভালভাবে বুঝার জন্য এখানে Case আলোচনা হলো।
+   Case:
+
+
+
+
+
+
+
+b. Demonstrative: ব্যক্তি বস্তুর বদলে বসে তাকেই বুঝাবে।
+   ** this/these, that/those
+   ** as such(সেভাবে) : তুমি বুদ্ধিমান তুমি সেভাবে কাজ করো
+      You are a intelligent boy, you act as such
+   ** So = This/That -> যদি Hope,desire,demand চায়
+      You deserve so(this)
+   ** The Same: He did the same as you did
+   ** one/ones : নাউনের পুনরাবৃত্তি এড়াতে
+      I want the better one.
+      
+      
+     
+     
+     
+     
+     
+     
+     
+      
+c. Interrogative(Wh words)
+   01. Who - Undefined Singular/Plural Person
+   02. Whom - Objective form of Who - Singular/Plural
+   03. Whose - Possessive form of Who
+   04. What - Singular/Plural
+   05. Which - Select something from limited object
+    
+   Includes Possive Case here
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+d. Relative Pronoun: Wh Word বাক্যের মধ্যে বসবে।
+   দেখতে হবে ওয়ার্ডটি লিংক তৈরী করছে কিনা। 
+   That/this  may be replaced with who/whom
+   All,some, the same, any, only, none, no, 
+   nothing এরপর that
+   
+   such, the same, as,  so,  as many, as much
+   এদের পর as বসে।
+   
+   নেগেটিভ ক্লোজের পর but বসে।
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+e. Indefinite Pronoun: অনির্দিষ্ট ভাবে কোন ব্যক্তি
+   প্রাণী বা বস্তৃকে বুঝাবে
+   01. one/ones
+       ** one of the+ Plural Noun + Singular V
+   02. Everyone, no one, someone,  anyone 
+   03. All - Uncountable noun এর বদলে বসে Singular Verb
+       Plural Countable noun এর বদলে বসলে V Plural
+   04. Any: Interrogative + Negative a Applicalbe
+   05. None : Uncountable noun এর বদলে বসবে + Verb Singular
+       তবে কাউন্টেবল নাউনের ক্ষেত্রে V S/P
+   06. Some
+   07. Many প্লুরালের বদলে ব্যবহার। প্লুরাল ভার্ব
+   08. Few কপি ০৭
+   09. Much = Uncountable noun Singular verb
+   10. Little = Copy 09
+   11. Another 
+   12. Other = Plural Verb
+   13. Anybody, somebody, Everybody, nobody 
+       প্রয়োজনে সিংগুলার ভার্ব নেবে।
+   
+   Note: Few, a Few, The few,  Very Few
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+f. Distributive:
+   01. Each: Each of + Pl V + Sin V
+       সংখ্যাবাচক শব্দে শেষে বসে They got three pen each
+       The boys each played Well(Plural Antecedent)
+   
+   02. Either: দুজনের একজন Each এর মতন
+       **
+   03. Neither দুজনের কেউই নয়। Each এর মতন
+   04. Any,  both, most, none, some, several এরা 
+       Indefinite + Distributive উভয়।
+   
+
+
+
+
+
+
+
+g. Reflexive: Personal Pronoun+Self/Selves 
+   উক্ত সাবজেক্টকেই বুঝাবে।
+   Himself, Herself অবজেক্ট আকারে বসবে।
+   I myself did the work. জোর প্রদান করা বুঝাচ্ছে
+   
+
+
+h. Reciprocal: ২ বা ততোধিকের মাঝে পারস্পারিক কাজ
+   each other, one another
+   
+   
+   Note: Either or, Neither nor,  as soon as এগুলা
+   আলোচনা করো এখানে
+   
+   
+   
+     
+     
+   
+
+
+------------------------------------------------
+           Adjective(নাউনের আগে কিনা চেক)
+------------------------------------------------
+কাজ: নাউন/প্রোনাউনের কন্ডিশন বর্ননা।
+Kinds: 4
+01. Adj of Quality: ব্যক্তি বস্তুর দোষ গুণ
+02. Adj of Quantity: কোন কিছুর পরিমান। I need some paper
+    ** sit before Material and Abstract noun
+    ** Much,  little, no, none, enough, sufficient, all, whole, half, lots, a lot of, a part of, a slice of, a pint of, planty of
+03. Adj of Number: সংখ্যা বুঝাবে।
+   ** Definite Numeral: 
+       Cardinal: One, two
+       Ordinal: First second
+       Multiplicative: Single,Double
+   ** indefinite Numeral:
+      All, no
+   কিছু আছে Quantitive + Numeral both
+   some/enough
+     
+04. Pronominal Adj: Pronoun < Noun এর আগে বসবে
+    It is my pen.
+    My book. 
+    Any man 
+    Each Student 
+    
+    Kinds
+    a. Demonstrative: This book is mine
+    b. Distributive: Each bottle
+    c. Interrogative: What class do you read in?
+    d. Possessive: This is our village
+    e. Raltive: Tell me which color suit me more
+    f. Proper Adjective: America+n = American
+    g. Emphatic: It is my own car. 
+    h. Exclamatory: What works as adjective. What a fool
+    i. Compound: He sought for a "thee-days" leave
+    j. Participle Adj: He Brought some washing power
+       The girl is educated(Predicative Adj)
+       She is an educated girl(Attributive)
+       
+       
+    Forms:
+    01. Adj+Noun
+    02. Determiner+Whole+Noun
+    03. All+det+noun
+    04. The whole of = all of
+    05. A whole/the whole+countable noum
+    06. All+Pl Countable noun
+    07. Every+Singular Countable Noun
+    08. Some (Affirmative), Any(negative)
+    09. Hardly/barely/scarcely+any+noun
+    10. Little = not much, few = Not many
+    11. A Little = small amount, a few = small number
+    12. The Little = Certain Small amount, The few= certain small.numbwr
+    13. Very Little = Nearly nothing(amount) Very few = nearly nothing(number)
+    
+    
+    Formulation: Suffix
+    ly, y, ish, ful, less,  ible, ese,  ive, ic, ous, ical, squrec ary, en ian
+    
+    
+
+
+
+------------------------------------------------
+                    Verb
+-------------------------------------------------.
+** Describe any action(বাক্য দেখে বুঝতে হবে ক্রিয়ার টাইপ)
+Types:
+
+*Finite সমাপিকা। বক্তব্য শেষ হয়। (Tense অনুসারে ভার্বের রুপ বদল ঘটে)
+ -Principal - নিজে সম্পুর্ণ অর্থ প্রকাশ করে।
+   #Transitive সকর্ম(যে ভার্বের কর্ম বা অবজেক্ট থাকে) কি বা কাকে দ্বারা প্রশ্ন করি।ন
+     **Factitive    : Object আছে তবুও আরো কিছু চাই। We found him Captain
+     **Quasi-Passive: আছে Active অর্থ দেয় Passive. Honey Tastes sweet.
+     **Reflexive    : ভার্ব দ্বারা সাবজেক্ট অবজেক্ট সেম বুঝাবে। She absented herself
+     **Reciprocal   : অবজেক্টে সেরিপ্রকাল প্রোনাউন They help one another
+   #Intransitive(যে ভার্বের কর্ম বা অবজেক্ট নাই) অকর্ম: The baby cries.
+     **Copulative: অতিরিক্ত শব্দ ছাড়া অর্থ হয়না। The girl looks happy./ She seems to be good.  Fall, love, grow,  hear, look, seem, smell, appear, become, taste,  এবং to be verb
+     **Causative : She feed her child. তালিকা সংগ্রহ করো
+     **Cognate   : সমজাতীয় ওয়ার্ডকে অবজেক্ট হিসাবে নিবে। She dreams a sweet dream.
+     কপুলেটিভ ছাড়া বাকিরা ট্রানজিটিভ হবার কথা
+     
+ -Auxiliary - Principal Verb ছাড়া অর্থ নেই(শর্ট লিস্ট)(এরা মূল ভার্ব হিসাবে বসতে পারে)
+   #Primary Auxiliaries:
+      **Be: be, am is are was were being been (অর্থ চাই)
+      **Do: Do Does Did
+      **Have: have has had: খাদ্য, গোসল
+   #Modal Auxiliaries: 
+      **বাক্যের ভাব বর্ণনা করে। এদের শেষে s/es হবেনা, ing হবেনা, to be হবেনা। মূল ভার্ব হিসাবে বসেনা
+      01. Can(পারা/সক্ষমতা) 
+      02. Can be(থাকতে পারর সক্ষমতা/হতে পারে)
+      03. Can have(থাকতে পারে)
+      04. May(সম্ভাবনা/পারা পুরোপুরি সক্ষম নয়/অনুরোধ)
+      05. May be(হতে পারে/সম্ভাব্য)
+      06. May have(থাকতে পারে/সম্ভাব্য সিউর না)
+      07. Could(করতে পারতাম/করতে সক্ষম ছিলাম কিন্তু করিনি)
+      08. Could be(হতে পারতো/করা যেতে পারতো সক্ষম)
+      09. Could have(কোন কিছু থাকতে পারতো)
+      10. Would(হবে/অনুরোধ বিনয়)
+      11. Would be(হবে খুব শীঘ্রই/থাকবে) 
+      12. Would have(থাকবে/ আশা দেয়া)
+      13. Should(নীতিগতভাবে জোরালে ভাবে বলা যে করা উঠিত)
+      14. Should be(হওয়া উচিত। জোরালো ভাবে)
+      15. Should have(থাকা উচিৎ। জোর দান)
+      16. Must(অবশ্যই/ কোন ছাড় নেই)
+      17. Must be(অবশ্যই হতে হবে)
+      18. Must have(কারো কোন কিছু অধিকারে থাকবে)
+      19. Have to(অবশ্যই করতে হয়। বাধ্য)
+      20. have to be(কাউকে কোথাও থাকতে হবে)
+      21. Had to ( করতে হতোই)
+      22. Had to be(কোন গুনের অধিকারী হতে বাধ্য হতে হয়েছিলো)
+      23. Am to(প্রতিনিয়ত করতে হয়। স্বাভাবিকভাবে)
+      24. was to(২৩ কপি)
+      25. am/is/are/was/were+going+to(বর্তমানে বা অতিতে কোন কাজ করতে যাচ্ছে বা উদ্দত হচ্ছে)
+      26. am/is/are/was/were+better+to(বর্তমানে কয়েকটির মাঝে ভাল সুযোগটি বেছে নিতে চাচ্ছে)
+      27. need(প্রয়োজন হওয়া)
+      28. need not(প্রয়োজন নাই)
+      29. need not have(অতীতে কোন কাজ করা দরকার ছিলনা কিন্তু করতে বাধ্য হয়েছিলোদ)
+      30. Dare(সাহস করে)
+      31. Dare not(সাহস করেনা)
+      32. had better(অতীতের কোন কাজ করাই ভাল ছিলো কিন্তু না করাতে আফসোস হচ্ছে)
+      33. would rather(দুটি কাজের মধ্যে একটি বেছে নিই।/বরং)
+       নেগেটিভ বাক্যে dare/need ব্যবহার হলে সাবজেক্ট 3rd Person হলেও s/es হবেনা
+      
+     
+ 
+      
+   
+*Non-Finite(অসমাপিকা) I want to eat. মোট ভার্ব দুটি। Want বক্তব্য শেষ করতে পারছে কিন্দু eat পারেনি। তাই eat হবে non finite. 
+   -Participle(Verbal Adjective,  which qualify noun)
+     *Present(v+ing): Verb/Adjective এর কাজ করে
+      01. Attributive Adj: It is an 'interesting' game
+      02. Predicative Adj: The location of this village is 'charming'
+      03. As Preposition: Considering his intelligence,
+      04. Complement of Object: I saw the boy playing in the field.
+     
+     *Past(verb এর PP form) (Works as Verb/Adj)
+      01. Canada is a developed country
+      02. Roads are damaged
+      03. In Passive voice
+      04. The car 'made in' korea looks great.
+      
+      
+     *Perfect(having+PP)
+       Active: having + PP
+       Passive Form: Having + been + PP
+       একই সাবজেক্ট দুই কাজ করে তখন ১ম টিতে এটি ব্যবহার করি
+       
+       Nominative Absolute: Participle Phrase যার সাবজেক্ট মূল সাবজেক্ট হতে পৃথক
+       The wind being favorable, we went out. 
+       
+   -Geround (v+ing)(it বসিয়ে অর্থ ঠিক থাকবে)
+     01. As Subject: Dancing is a good exercise
+     02. After Finite verb: i love eating rice
+     03. Prep+Geround+noun+pronoun: I am in the habit of speaking the truth
+     04. This is my writing pad
+     05. We look forward to going
+     
+     more structure:
+     01.  V+G
+     02. S+V+O+Participle
+     03. S+V+Bare infinitives
+   
+   -Infinitive(to+v)
+    #bare(without to) make, see, hear, need, dare, let modals, watch, notice, observe, feel, help, would rather,  had better, help(ফুল বা বেয়ার দুটিই). I saw her dance.  কিন্তু Passive করলে to লাগাবে। She was seen to dance
+    #full(to+verb) to+v (এটি সাবজেক্টের সাথে সম্পর্কিত না) রূপ বদল নাই। জাস্ট ভাব প্রকাশ করবে
+    ক্রিয়ামূল+তে নাউন হিসাবে কাজ করে। 
+    Forms:
+    Present: to go
+    PC: to be going
+    Per. I : to have gone
+    Per. CI: to have been going
+    Present infinitive Passive: to be done
+    Perfect infinitive Passive: to have been gone
+    
+    রিপিটিশন এড়াতে: Do want to go? yes i want to
+
+
+
+চেহারা দেখে দুভাবে শনাক্ত করা যায়।
+
+01. Regular বা Weak Verb : ভার্বের শেষে d, ed যুক্ত করি।
+02. Irregular বা Strong Verb : ভার্বের মূল গঠন বদলে যাবে।
+
+------------------------------------------------
+                   Adverb
+01. Modify Adjective/Verb/other adverb
+02. Some adverb can qualify preposition and conjuction
+03. Examples:
+    a. Modify Adjective: She is very 'intelligent'
+    b. Modify Verb:  He 'walks slowly'
+    c. Modify Adverb: He walks very slowly
+    d. Modify Preposition: A bird flew a 'little over' my head
+    e. modify conjunction: I will do this 'only if' you request me. if কে কোয়ালিফাই করেছে
+    f. Modify sentence: Unfortunately, he did not leave
+   
+04. 4 Types:
+      a. Simple
+          1. Adverb of time(ক্রিয়া সম্পাদনের সময়): 
+             Now, 
+             then, 
+             early, 
+             always, 
+             before, 
+             ago, 
+             daily, 
+             regularly, 
+             ever, 
+             never, 
+             soon, 
+             when, 
+             lately, 
+             since, 
+             while, 
+             already, 
+             immediately, 
+             today, 
+             yesterday, 
+             formerly, 
+             late, 
+             at once, 
+             till
+          2. Adverb of Place(ক্রিয়া সম্পাদনের স্থান): 
+             Here, 
+             there, 
+             near, 
+             hither, 
+             neither, 
+             thither, 
+             below, 
+             hence,
+             home, 
+             away, 
+             everywhere, 
+             nowhere, 
+             somewhere
+          3. Adverb of manner: 
+             slowly, 
+             quickly, 
+             wisely, 
+             highly, 
+             well, 
+             thus, 
+             aloud, 
+          4. Adverb of Quantity
+             too
+             enough
+             least
+             almost
+             hardly
+             scarcely
+             more
+             little
+             rather
+             quit
+             once
+             twice,  
+             so
+             fully
+             better
+             abundantly
+             barely
+             entirely
+             very
+             only
+             rather
+             fairly
+             nearly
+      
+         5. Adverb of Cause/effect
+             hence
+             for that reason
+             therefore
+             wherefore
+             why
+             accordingly
+             consequently
+             
+         6. Adverb of order
+             Firstly
+             secondly
+             lastly
+             in fine
+             first
+             second
+             third
+             
+             
+       formation:
+       1. Adj+ly
+       2. Adj এর  শেষে le থাকলে  e= y বসাই
+       3. Adj এর শেষে y থাকলে y এর বদলে ily বসাই
+       4. কিছু Adj এডভার্ব হয়া যায়
+       
+       Position
+       1. After intransitive verb it rains heavily
+       2. Obj of transitive verb: I helped him willingly
+       3. Never always perhabs,  ever,  never,  often, seldom,  usually, rarely, generally, probably, frequently, occasionally, sometimes এরা মূল ভার্বের আগে বসবে
+       4. তবে Be verb / have verb মেইন ভার্ব হলে এদের পর 3 নং বসবে
+       5. আদেশ মূলক বাক্যে শুরুতে বসে
+       6. Adj মোডিফাই করতে এর আগে বসে
+       7. Adverb of time শুরুতে/শেশে বসে।
+       8. Adverb of manner শেশে
+       9. Adverbial phrase শেষে
+       10. adv of place + v + adv of time
+       11. যত তত বুঝাতে the Adverb হিসাবে ব্যবহার কর্ হয়
+           The sooner, the better
+       12. Here and there শুরুতে বসলে introductory বলে।
+       
+       There এর ব্যবহার এখানে লিখো
+  
+------------------------------------------------
+
+------------------------------------------------
+                  Preposition
+------------------------------------------------
+ Noun/Pronoun এর আগে বসে অন্যান্য ওয়ার্ডের সাথে সম্পর্ক তৈরী করে।
+ 
+ 01. Types
+     a. Simple at,on
+     b. Double and compound into, onto
+     c. Complex: in front of, on behalf of
+     
+  তালিকা
+  01. at
+  02. In
+  03. On
+  04. With
+  05. By
+  06. To
+  07. From
+  08. About
+  09. After
+  10. Before
+  11. off
+  12. Though
+  13. Across
+  14. Opposite
+  15. Behind
+  16. Under
+  17. Over
+  18. Above
+  19. Among
+  20. behind
+  21. beside
+  22. besides
+  23. between
+  24. but
+  25. beyond
+  26. during
+  27. For
+  28. into
+  29. out of
+  30. till/untill
+  31. towards
+  32. upto
+  33. up
+  34. upon
+  35. under
+  36. with
+  37. within
+  38. without
+  39. from
+  40. of
+  
+     
+------------------------------------------------
+                  Conjunction
+------------------------------------------------
+দুই বা ততোধিক ওয়ার্ড বা বাক্যকে জোড়া দেয়া।
+00. Types: 
+    Co-ordinating(Compound sentence)
+      01. Cumulative
+      02. Adversative
+      03. Disjunctive
+      04. illative
+    
+    Sub-ordinating(Complex Sentence) 
+      01. Time
+      02. Reason
+      03. Purpose
+      04. Result
+      05. Condition(if)
+      06. cobcession
+      07. comparison
+
+01. List Collect করি অর্থ সহ
+------------------------------------------------
+                  Interjection
+------------------------------------------------
+মনোভাব প্রকাশ
+তালিকা সংগ্রহ করো।
+Hurrah,Alas,Bravo(সাবাশ), Fie(ছি),  Hallo, hush
+   

@@ -1,0 +1,33 @@
+23-11-2021
+01. Prefix = মূল শব্দের আগে। উপসর্গ
+02. Suffix = মূল শব্দের পরে। প্রত্যয় 
+03. শুধু মাত্র Noun, Pronoun, Adjective, Verb এ চারটি
+    আন্ত পরিবর্তনযোগ্য। বাকি চারটি পরিবর্তনশীল না। ফিক্সড
+    * রূপান্তর পদ্ধতিকে Affix বলে
+-------------------------------------------------
+                Prefix
+01. এরা আগে বসে বিপরীত অর্থ দেয়।
+     a. dis = dis+able
+     b. il  = il+legal
+     c. im  = im+balance
+     d. in  = in+active
+     e. ir  = irregular
+     f. mis = mis+conduct
+     g. non = non+sense
+     h. un  = un+able
+     
+02. be/en +  Noun/Adj = verb
+    a. cloud = be+cloud
+    b. force = en+force
+
+03. il/im/in/ir(=not) + Adj = Adj
+    liberal = illiberal
+
+04. un+noun/Adj = বিপরীত শব্দ
+-------------------------------------------------
+                   Suffixes
+01. Noun + able/ible = Adj(answerable)
+02. Verb + able      = Adj(bearable)
+03. Noun + al        = Adj 
+04. Verb + al        = Noun(digital)
+

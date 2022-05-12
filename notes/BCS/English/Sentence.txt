@@ -1,0 +1,486 @@
+                  Sentence (আদল খান)
+00. বেসিক: দিন মাসের নাম, ১-১০০ ইংরেজিতে লিখা                
+                  
+Dictionary: sb = somebody
+            sth = Something            
+01. Two Parts
+    Subject = যার সম্পর্কে বা যাকে উদ্দ্যেশ্য করে(What/who)
+    Predicate = কর্তা সম্পর্কে যা বলা হয়
+02. Subject(based on Nour/Pronoun) 
+    Predicate(based on Verb)
+    
+    Special Case: (You) Come here কর্তা উহ্য
+                  (You) Please do it
+03. Complement: কর্তার একটি নতুন পরিচয়। ('to be verb' এর পর যেসব শব্দ যুক্ত হয়)
+    He is(to be) -- a Teacher(করিম) -- 
+                
+04. Subject এর অবস্থান: 
+     বাক্যের শুরুতে: *He* is a Teacher
+     বাক্যের শেষে : Long live *Bangladesh*
+05. বিস্তৃতি: 
+  as noun      : *Karim* is my brother
+  as adjective : *The virtuous* are happy.
+  as pronoun   : *He* is a good boy
+  as gerund    : *Smoking* is a bad habit
+  as phrase    : *To walk* is good
+  as clause    : *what he says* is right
+--------------------------------------------------
+                Kinds of Sentence
+--------------------------------------------------
+01. অর্থ অনুসারে ৫ প্রকার।
+02. গঠনভেবে ৩ প্রকার
+--------------------------------------------------
+                  অর্থভেদে ৫ প্রকার     
+--------------------------------------------------
+ 01. Assertive(বিবৃতি) : I eat rice
+     a. Affirmative(হ্যা বোধক): I know him.
+        Structure: Sub+v+..........
+     
+     b. Negative(না বোধক): I do not know him.
+        Sub+ do not/does not + main verb+...
+        
+     c. Emphatic(জোরালো বিবৃতি): I do like him. 
+     
+02. Interrogative(প্রশ্নবোধক): What is your name?
+    বৈশিষ্ট্য:
+    a. Start with Aux. or modal verb.(ans. yes/no)
+    
+    aux./modal+sub+mv+.....
+    Are(aux.) you(sub) ready(mv) to go?
+ 
+    
+    b. Start with Wh-words: 3 Forms
+    কে = subject
+    কি = Object
+       1. Interrogative pronoun
+          a. Who(sub/pro.) discovered america?
+          কে আমেরিকা আবিষ্কার করেছিলো?
+          b. What(sub/pro.) made you sad?
+          কে তোমার মন খারাপ করেছে?
+          c. What(obj) do you like?
+          তুমি কি পছন্দ কর?
+          
+      2. Form: adj+Noun
+         What(adj) colour(nour) do you like?
+         which book(n) shall i get?
+         
+      3. Interrogative adverb of time
+         When are you coming from?
+         why are you so late?
+         
+    
+    
+
+    WH-Words:  Relative Pronour হিসাবে ব্যবহৃত হয়
+    ---------
+    How(adverb): কিভাবে/কেমন/কত/কেমন করে/কি উপায়ে
+                 কি অবস্থায়/কেমন করে/
+    Examples:
+    আচরণ:
+    a. How does it work.
+    b. He does not know how to swim.
+    c. I'll show you how to load files.
+    d. Her behaviour was very odd."how so?"
+    e. it's funny how(that) people remember him.
+    
+    স্বাস্থ্য:
+    a. How are you?
+    b. How are you feeling now?
+    
+    অন্যান্য:(Before adverb/Adjective)
+    a. How was your trip?(enjoy)
+    b. How did they play?(success/win or lose)
+    c. I didn't know how much to bring(amount)
+    d. How old is she?(age) 
+    e. How many people were there? (degree)
+    f. How much are those earring?
+    g. How kind of you to help!(Surprise)
+    h. How he wished he had been there(pleasure)
+        
+      
+         
+      
+      
+    Who  : কে/যে
+    Examples:
+    নাম/পরিচয় জানা:
+    a. Who are you?(identity)
+    b. I wonder who that letter was from.
+    c. Who are you phoning?(People)
+    d. Who is the money for?
+    e. The people (who) we met have sent us a card.
+    f. John Nash, Who has a lot of experience(info)
+    
+    Special Case: Who's Who (names/job status)
+    ** You'll soon find out who's who in the office
+    
+    
+    Which: কোনটি/যেটি(pro)./যাহা(adj.)
+    a. Which is better exercise-swimming od tennis?
+    b. Which of the Applicants has got the job?
+    c. Which of the patients have recovered?
+    d. Which way is the wind blowing?
+    e. Houses which overlook the lake cost more.
+    f. His best movie, which won several awards.
+    
+    What(pro. determiner) : কি/কি জিনিস/কি কি/যা তা/
+    Examples:
+    a. What(=what job) does he do?
+    b. What is your name?
+    c. What time is it?
+    d. What kind of music do you like?
+    
+    e. What you need is a good meal.
+    f. Nobody knows what will happen next?
+    g. What a beautiful bird!
+    
+    IDM:
+    and what not | and what have you
+    h. it is full of old toys, books and what not.
+    i. I'll give her what for if she does that again
+    j. Is he stupid or what?
+    k. Are you going now or what?
+    l. What? I can't hear you.
+    m. 'Mummy!' 'What?''I'm thirsty
+    n. 'I ask her to merry me.''You what?'(Surprise)
+    o. it will cost $500,'What?' (anger)
+    p. What about you,Joe? do you like it?(introduce)
+    q. What about a trip to France?(Suggestion)
+    r. She is just gone out old what-d'you-call-him
+    s. What is this tool for?(Reason)
+    t. What(=why) did you do that?
+    u. What if the train is late?
+    v. Yes, I wrote the article. What of it?
+    w. They dropped their best player. What'up?
+    x. What's with you? You haven't said a word
+       all morning.(Strange behave)
+    y. What is with all this walking? Can't we take 
+       a cab?
+    z. What with the cold weather and my bas leg,  
+       I haven't been out for weeks.
+     
+     
+    Whom(pronoun): যাদের/কাহাকে/যাহাদিগকে/কাহাদিগকে
+    Example: used instead of 'who' as the object
+             of a verb or preposition
+     a. To whom Should i write?
+     b. Whom did they invite?
+     c. The author whom you criticized in your 
+         review has written a replay.
+     d. He was free to marry whomever he chose
+     
+     Whose: কার/যার/কার অন্তরগত?
+     a. Whose house is that?
+     b. I wonder whose that is.
+     c. He is a man whose opinion i respect.
+     d. it's the house whose door is painted red.
+     e. Isobel, Whose brother he was, had heard 
+        the joke before.
+     
+     N.B ever(adverb) = কখনো = at any time
+     Used in negative sentence.
+     
+     a. Nothing ever happen here
+     b. Don't you ever get tired?
+     c. if you're ever in miami, see us
+     d. Have you ever thought of changing your job?
+     e. Have you ever been to  rome?
+     f. She hardly ever(=almost never) goes out.
+     g. I'll never ever do that again.
+     
+     h. It was raining harder than ever.(Emphasis)
+     i. It's my best ever score(compare)
+    
+     use to mean always
+     
+     a. Paul, ever the optimist, agreed to try 
+        again.
+     b. They lived happily ever after
+     c. He would love her for ever
+     d. The ever-growing problem
+     e. an ever present danger.
+     
+** used after why, when to show that you are 
+   surprised
+     a. Why ever did you agree?
+     
+     b. All he ever does is grumble about things.   
+       (Emphasis)
+       
+     c. He's had a car ever since he was 18 
+       (Continuously since)
+     
+     d. He looks ever so smart(very)
+     e. It was ever so easy. 
+     f. was/is/does+ever(emphasis)
+        You must have been upset by that'Was i 
+        ever'
+      
+     Where(adverb): কোথায়/যেথায়/
+  ** Place/situation
+     a. Where do you live?
+     b. Where(=at what point) did i go wrong in my
+        calculation.
+     c. Where(=book/news) did you read that?
+     d. Just Where(=to what situation) is all this 
+        leading us?
+     
+     as conjunction
+     a. This is where I live.
+     b. Sit Where I can see you.
+     c. That is where(=the point) your are wrong
+     
+     Special Forms:
+     whereabouts(noun/adverb)
+     ** uncountable+Sin/Plu. Verb
+    * His whereabouts are/is still unknown.
+    * Whereabouts did you find it?
+    
+    
+    Where.as
+    a. Some of the studies show positive results, 
+       where as other do not(Compare)
+    
+    Where.by = যারা দ্বারা
+    a. They have introduced a new system whereby
+       all employee must undergo regular training.
+       
+     Where.in = in which place or thing
+     a. an organization wherein each employee is 
+        valued and respected.
+        
+     Where.of = of what or which
+     a. I know whereof I speak(= I know well)
+     
+     Where.upon = as a result of this/and then
+     
+     He told her she was a liar,where upon(and then
+    )  she walked out.
+    
+    
+    Wher-ever = any place
+    Sit Wherever you want
+    
+    Where-withal = the money or things that you 
+    need to do something
+    
+    a. They lacked the wherewithal to pay the 
+       repair.
+       
+       
+      When=(কখন/যখন)  (adverb/pronoun/conj.)
+      
+      adverb:
+        Time:
+       a. When did you last see him?
+       b. When can i see you?
+       
+        expression of time(=at which)
+       a. Sunday is the only day when i eat
+       b. The last time i went to scotland was in
+           may,  When the weather was good
+        
+        
+       pronoun
+       a. Until When can you stay?
+       b. I have got a new job.'Since when?'
+       
+       Conjunction
+       
+  a. I love math when i was at school(that time)
+  b. Call me when(after) you have finished
+  c. He had just drifted off to sleep when(just
+  after) the phone rang
+  d. She claimed to be 18 when(although) I know she
+     is 16
+     
+     
+     Special Case:
+     Whence(from where)
+     
+     They returned whence they had come.
+     
+     Whenever(Conjunction)
+     a. You can ask for help whenever(anytime)
+        you need it.
+     b. Whenever(everytime) She comes, she bring a
+        friend.
+        
+      used when the time happens is not important
+      
+      it is not urgent- we can doit next week or
+      whenever.
+      
+      Whenever=when used as 
+      
+      
+      Why(কেনো/কি কারনে/কি উদ্দ্যেশ্য)
+      ask for a reason
+      a. Why did you come?
+      b. Why bother to write?(Suggest)
+      c. That is why(reason) I left so early.
+      
+      Special Case:
+      Whyever didn't you tell us before?(surp.)
+---------------------------------------------------
+              Im.pera.tive Sentence
+---------------------------------------------------
+বাক্য(order,command,advise,reqiest,proposal) প্রকাশ
+NB. Second person a you উহ্য থাকবে। তবে জোরালো ভাবে 
+করতে বল্লে you hoba.
+    a. Don't do it(You do not do it)
+    b. You do it at once(জোরালো)
+    
+ Rules: Subject এর অবজেক্ট ফর্ম+ ইনফিনিটিভ এর to উহ্য
+     01. Let+ (1st/3rd) Person 
+         Let him do(=to do) the work.
+         Let me go home
+     02. Proposal/Suggestion
+         Let us give thanks to allah.
+     03. অনরোধে Please/kindly(Please শেষে দিলে কমা 
+         দিতে হবে)
+     04. অনুনয়(would you, will you, could you)
+         Would you mind+v+ing
+         Would you please+base form
+         
+     05. Do বসিয়ে জোর দেয়া যায়।
+         Do hurry up. 
+---------------------------------------------------
+            Optative(মনের কামনা বাসনা দোয়া)
+ a. May allah bless you.
+ b. May long live our president.
+---------------------------------------------------      
+                Exclamatory(বিষ্ময়)   
+01. How/What দ্বারা।
+    a. How/what a beautiful bird.
+    b. Bravo,Alas,Hurrah, Oh
+02. অকল্পনীয় ইচ্ছা।
+    Were I a king!
+    Were she a nice girl!
+03. হওয়া বা থাকা
+    Had I the wings of a bird?
+    What a great mistake you made?
+---------------------------------------------------      
+             According to structure
+---------------------------------------------------
+01. Simple: One Sub+One Finite Verb
+            I am playing in the field.
+            I eat rice.
+            
+02. Complex
+    ১টি প্রিন্সিপাল ক্লোজ+একাধিক সাব অরডিনেট ক্লোজ
+    I was so weak that i cannot walk
+    
+03. Compound:
+    স্বতন্ত্র প্রিন্সিপাল ক্লোজ গুলি and,but,or,nor,also
+    however,morever,thus,so,therefore,else,still
+    as well as, accordingly, otherwise, yet, while
+   ,  whereas, not only, but also
+   N.B: দুটি ক্লোজে একই সাবজেক্ট হলে পরেরটি উহ্য থাকবে।
+   I went to market and (I) bought a pen.
+   
+   
+   Complex এবং Compound এর পার্থক্য: Compound এর প্রতিটি ক্লোজ স্বাধীন এবং স্বতন্ত্র অর্থ থাকে যা Complex এ নাই
+   
+   
+---------------------------------------------------   
+           Co-ordinating Conjunction
+---------------------------------------------------
+and:
+Conj: এবং,ও, অধিকন্তু, তথা।
+01. bread and butter 
+    রুটি এবং মাখন
+02. A table, two chairs and a desk
+   একটি টেবিল, দুটি চেয়ার এবং একটি ডেস্ক
+   ** inc: a knife and a fork
+      cor: a knife and fork
+      
+      inc: My father and My Mother
+      cor: My father and mother
+      
+03. 5 and 5 makes 10(Plus)
+04. সংখ্যার ক্ষেত্রে ( তারিখের বেলায় না)
+  2 264 = Two thousand,  Two Hundred and sixty four
+  1964 = Nineteen Sixty-four
+
+05. She Came in and(then) took her coat off.
+06. Used before a verb instead of to, to show 
+    purpose.
+    * Go and get me a pen please.
+07. Introduce a comment:
+    * We talked for hours."and did you decide?"
+08. Miss another class and(as a result) you will
+    fail
+09. The pain got worse and worse.
+---------------------------------------------------But:
+Conj: কিন্তু, তবে, তা,  বিনা
+
+
+
+01. However/Dispite/but then
+    * We were tired but(however) happy
+02. Disagree/Surprise.
+    * But that not possible.
+03. Except/apart from
+    * I had no choice but to sing it.
+04. if it were not for
+    * He would have played but for a knee injury
+05. You cannot but.
+    * What could he do but forgive her?
+    
+prep: ছাড়া,  ব্যতিত(but = except)
+01. Everyone was there but him.
+
+adv : অথচ, কেবল মাত্র, সবে
+01. I don't think we can do it. still we can
+    but(only) try.
+    
+noun(usually plural)
+01. let us have no butsv, he said firmly, you are
+     coming.
+---------------------------------------------------
+or 
+conj: বা/অথবা/না/নচেৎ
+
+01. Possibility
+    * is it a boy or girl?
+02. used in negative sentences
+    * I can't read or write(can't write)
+03. Else(অন্যথায়)
+    * Turn the heat down or it'll burn. 
+    * He must like her,or He would not keep calling
+04. approximation
+    * We were six or seven members.
+05. Similarity
+    * Geology, or the science of the earth's crust.
+06. Introduce a constrasting idea.
+    * He was lying- or was he?
+07. Or so(about)
+---------------------------------------------------
+Nor = and not
+conj: না, নয়, এবং না
+
+01. not...nor
+ * Not a Building nor(and not) a tree was left.
+02. neither...nor
+    * She seemed neither surprised nor worried
+03. used before a positive verb to agree with sth
+    negative that has just been said.
+    ** I'm not goinf,'nor am i?'
+---------------------------------------------------
+
+
+
+
+
+
+    
+    
+    
+    
+
+    
+
+     
+        
+   
